@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+#avatar{
+  margin-left:1000px;
+  border: 1px solid red;
+}
+#red{
+  background-color: red;
+}
