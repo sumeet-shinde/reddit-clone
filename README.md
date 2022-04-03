@@ -28,15 +28,14 @@ There are some Key Features which are added in website clone such as:
 
 ### Features:
 
-- Dark & Light Theme<br/>
-<img src="https://user-images.githubusercontent.com/60615344/161419947-67fa6765-a9cf-4bdb-b645-04587d612cd4.png" width="700" /><br/>
-- Comment on Post
-- Like and Dislike Post or Comment
-- Get to Know who has Liked your Post
-
-<img src="https://user-images.githubusercontent.com/60615344/161419977-4dc51591-fa5b-4e8d-9fb9-4b5c0f1f1e6b.png" width="700"/>
-<img src="https://user-images.githubusercontent.com/60615344/161419994-e668432e-626f-44b5-b4f7-20480f288039.png" width="700">
-<img src="https://user-images.githubusercontent.com/60615344/161420011-9eefb10e-4803-4c97-a228-aa5c7d7cd72a.png" width="700"/>
+- Dark & Light Theme<br/><br/>
+<img src="https://user-images.githubusercontent.com/60615344/161419947-67fa6765-a9cf-4bdb-b645-04587d612cd4.png" width="700" /><br/><br/>
+- Comment on Post<br/><br/>
+<img src="https://user-images.githubusercontent.com/60615344/161419977-4dc51591-fa5b-4e8d-9fb9-4b5c0f1f1e6b.png" width="700"/><br/><br/>
+- Like and Dislike Post or Comment<br/><br/>
+<img src="https://user-images.githubusercontent.com/60615344/161419994-e668432e-626f-44b5-b4f7-20480f288039.png" width="700"/><br/><br/>
+- Get to Know who has Liked your Post<br/><br/>
+<img src="https://user-images.githubusercontent.com/60615344/161420011-9eefb10e-4803-4c97-a228-aa5c7d7cd72a.png" width="700"/><br/><br/>
 
 ## Team Members and Contributors
 
