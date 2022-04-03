@@ -28,17 +28,15 @@ There are some Key Features which are added in website clone such as:
 
 ### Features:
 
-- Dark & Light Theme
+- Dark & Light Theme<br/>
+<img src="https://user-images.githubusercontent.com/60615344/161419947-67fa6765-a9cf-4bdb-b645-04587d612cd4.png" width="700" /><br/>
 - Comment on Post
 - Like and Dislike Post or Comment
 - Get to Know who has Liked your Post
 
-<p>
-<img src="https://user-images.githubusercontent.com/60615344/161419947-67fa6765-a9cf-4bdb-b645-04587d612cd4.png" height="700" />
-<img src="https://user-images.githubusercontent.com/60615344/161419977-4dc51591-fa5b-4e8d-9fb9-4b5c0f1f1e6b.png" height="700"/>
-<img src="https://user-images.githubusercontent.com/60615344/161419994-e668432e-626f-44b5-b4f7-20480f288039.png" height="700">
-<img src="https://user-images.githubusercontent.com/60615344/161420011-9eefb10e-4803-4c97-a228-aa5c7d7cd72a.png" height="700"/>
-</p>
+<img src="https://user-images.githubusercontent.com/60615344/161419977-4dc51591-fa5b-4e8d-9fb9-4b5c0f1f1e6b.png" width="700"/>
+<img src="https://user-images.githubusercontent.com/60615344/161419994-e668432e-626f-44b5-b4f7-20480f288039.png" width="700">
+<img src="https://user-images.githubusercontent.com/60615344/161420011-9eefb10e-4803-4c97-a228-aa5c7d7cd72a.png" width="700"/>
 
 ## Team Members and Contributors
 
@@ -51,28 +49,28 @@ There are some Key Features which are added in website clone such as:
 ## Technologies Used
 
 <p float="left">
-  <img src="./src/PreviewImageGallery/html.png" height="100"/>
-  <img src="./src/PreviewImageGallery/css.png"  height="100"/> 
-  <img src="./src/PreviewImageGallery/JavaScript.png"  height="100"/>
-  <img src="./src/PreviewImageGallery/React.png" height="100"/>
-  <img src="./src/PreviewImageGallery/Redux.png" height="100"/>
-  <img src="./src/PreviewImageGallery/mongodb.png" height="100"/>
-  <img src="./src/PreviewImageGallery/nodejs.png" height="100"/>
+  <img src="https://user-images.githubusercontent.com/60615344/161420696-ea6a5897-3d45-4e5b-baa2-525c3f1869d1.png" height="100"/>
+  <img src="https://user-images.githubusercontent.com/60615344/161420722-03b76851-bf57-452d-a205-7fd06850600e.png" height="100"/> 
+  <img src="https://user-images.githubusercontent.com/60615344/161420726-6b5b973f-6960-4d1f-845a-322158077ef9.png" height="100"/>
+  <img src="https://user-images.githubusercontent.com/60615344/161420745-7e153a89-8e9a-477a-90d7-ffee8abd30df.png" height="100"/>
+  <img src="https://user-images.githubusercontent.com/60615344/161420751-5dd0555f-6ed5-423f-94ad-69c3eac06277.png" height="100"/>
+  <img src="https://user-images.githubusercontent.com/60615344/161420784-e0063ab5-92e9-4648-aa87-e9aea540e3f8.png" height="100"/>
+  <img src="https://user-images.githubusercontent.com/60615344/161420793-35c7a2d6-afd1-4028-9700-52c0aad2a05e.png" height="100"/>
 </p>
 
-## Installing and Running
+## For Cloning and Running
 
-Executing the commands mentioned below one by one in your command line will help in making this React app .
+Execute the commands mentioned below one by one in your command line.
 *Cloning*
 
-
+```
 git clone https://github.com/sumeet-shinde/reddit-clone
-
-
+```
 
 *To run the react app execute below command*
 
-
+```
 cd ./reddit-clone
 npm install
 npm run start
+```
